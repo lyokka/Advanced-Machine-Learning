@@ -7,3 +7,9 @@
   https://www.dropbox.com/s/5274kr1j4jxmai0/VideoDataSet.tar?dl=0
 - Generated and True Video Dataset(.npy, using np.load() to load)
   https://www.dropbox.com/s/1qs6wbjfwdbwzq2/VideoDataNpy.tar?dl=0
+
+
+sample result
+
+![sample1](gen_vid.gif)
+![sample2](gen_vid2.gif)
